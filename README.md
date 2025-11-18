@@ -1,4 +1,4 @@
-- <p align="center"> <img src="https://img.shields.io/badge/React-18.0.0-61DAFB?style=flat&logo=react" /> <img src="https://img.shields.io/badge/TailwindCSS-v3-38B2AC?style=flat&logo=tailwindcss" /> <img src="https://img.shields.io/badge/License-MIT-green.svg" /> <img src="https://img.shields.io/badge/Status-Active-brightgreen" /> </p>
+ <p align="center"> <img src="https://img.shields.io/badge/React-18.0.0-61DAFB?style=flat&logo=react" /> <img src="https://img.shields.io/badge/TailwindCSS-v3-38B2AC?style=flat&logo=tailwindcss" /> <img src="https://img.shields.io/badge/License-MIT-green.svg" /> <img src="https://img.shields.io/badge/Status-Active-brightgreen" /> </p>
 
 - A modern and secure Password Manager built with React, designed to store and manage passwords locally in your browser using localStorage.
 - The app supports add, edit, delete, show/hide, copy to clipboard, and includes toast alerts for a smooth user experience.
@@ -29,7 +29,7 @@
 - React-Toastify	            Notifications
 - LocalStorage	              Data persistence
 
-- **react-password-manager/**
+ **react-password-manager/**
 - ├── src/
 - │   ├── components/
 - │   │   └── Manager.jsx
